@@ -24,8 +24,8 @@ Par exemple, pour acheter des jetons, l'utilisateur peut appeler la fonction buy
 Des tests unitaires ont été écrits pour valider le fonctionnement du smart contract. Les tests peuvent être exécutés à l'aide de l'outil de test SmartPy.
 
 ## Contributeurs
-Mathis LIGOUT 
-Julie IRLÈS 
-Benoît Diene
-Carl VICTOR
-Antonin IRLÈS
+- Mathis LIGOUT 
+- Julie IRLÈS 
+- Benoît Diene
+- Carl VICTOR
+- Antonin IRLÈS
