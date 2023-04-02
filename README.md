@@ -5,7 +5,9 @@ Ce projet est un smart contract écrit en SmartPy pour permettre le financement 
 Le smart contract contient les fonctionnalités suivantes :
 
 `buy_tokens(value: int)` : cette fonction permet à un utilisateur d'acheter des jetons en échange de tez (la monnaie de la blockchain Tezos). Le prix d'un jeton est défini lors du déploiement du contrat par l'administrateur. Les jetons sont stockés dans une liste qui associe chaque utilisateur à son nombre de jetons.
+
 `update_price(value: int)` : cette fonction permet à l'administrateur de mettre à jour le prix des jetons.
+
 `transfer(_to: str, value: int)` : cette fonction permet à un utilisateur d'envoyer des jetons à un autre utilisateur.
 
 ## Déploiement du smart contract
